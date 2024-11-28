@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/frredev/clientlibs"/>
+    <filter root="/apps/frredev/components"/>
+    <filter root="/apps/frredev/i18n"/>
+</workspaceFilter>

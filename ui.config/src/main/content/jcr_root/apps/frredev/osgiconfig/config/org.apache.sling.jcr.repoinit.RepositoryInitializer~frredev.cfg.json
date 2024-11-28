@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/frredev",
+        "create path (nt:unstructured) /content/dam/frredev/jcr:content",
+        "set properties on /content/dam/frredev/jcr:content\n  set cq:conf{String} to /conf/frredev\n  set jcr:title{String} to \"fr-re-dev\"\nend"
+    ]
+}
